@@ -28,9 +28,9 @@ The organization of the core set and individual research and development reposit
 
 ##Contact Channel
 
-- GitHub: [krunixbase](https://github.com/krunixbase), [Gitkrunixdev](https://github.com/Gitkrunixdev)
+- GitHub: [krunixbase](https://github.com/krunixbase),
+- [Gitkrunixdev](https://github.com/Gitkrunixdev)
 - Email: shamircrackerlab@gmail.com
-- Facebook: [facebook.com/shamircrackerlab](https://www.facebook.com/shamircrackerlab) *(active channel with traffic and connections)*
-- LinkedIn: *(reputation channel, available for download)*
+- LinkedIn: https://www.linkedin.com/in/shamircrackerlab
 
 _Last updated: January 2026_
